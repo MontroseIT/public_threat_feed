@@ -320,3 +320,4 @@ xkpal.1a4a64b6.dns.blocktoday.net
 xkpal.d6597fa.dns.blocktoday.net
 xserver.jp
 your-server.de
+polyfill.io
