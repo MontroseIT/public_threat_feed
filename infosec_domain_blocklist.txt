@@ -321,3 +321,11 @@ xkpal.d6597fa.dns.blocktoday.net
 xserver.jp
 your-server.de
 polyfill.io
+bootcdn.net
+bootcss.com
+staticfile.net
+staticfile.org
+unionadjs.com
+xhsbpza.com
+union.macoms.la
+newcrbpc.com
