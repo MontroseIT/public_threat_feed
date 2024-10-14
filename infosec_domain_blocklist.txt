@@ -1292,4 +1292,7 @@ ae-netflixx.cc
 49baidu.wiki
 microsoft365.london
 ​corporate.arcelormittal.com
-version001.com
+corporate-media.arcelormittal.com
+*.arcelormittal.com
+arcelormittal.com
+version002.com
